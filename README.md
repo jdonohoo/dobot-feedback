@@ -1,4 +1,4 @@
-Future Documentation spot for Dobot.mac
+Future Documentation spot for DoBot.mac
 
 
 
